@@ -1,0 +1,2 @@
+# BidDataApplicationExperimentSteps
+Hadoop完全分布式基于docker基础容器，镜像为centos07，hadoop及jdk版本信息分别为3.1.3及1.8.0_202，主节点master及两个次节点slave1、slave2
